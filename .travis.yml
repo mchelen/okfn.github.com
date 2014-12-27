@@ -1,6 +1,2 @@
 language: ruby
-rvm:
-- 2.1
-
-
-jekyll build
+script: jekyll build
